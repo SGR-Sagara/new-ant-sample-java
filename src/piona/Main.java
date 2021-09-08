@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args) {
         HelloWorld hw = new HelloWorld();
         System.out.println(hw);
+        System.out.println("Success is not the happiness !!!");
     }
 }
 
